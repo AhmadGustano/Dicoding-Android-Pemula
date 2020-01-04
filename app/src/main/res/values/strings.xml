@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">12 Tim Direct Invite TI 2019</string>
+        <string name="team_name">Nama Tim</string>
+        <string name="team_desc">Deskripsi</string>
+        <string name="list">List</string>
+        <string name="about">About</string>
+        <string name="me_nama">Ahmad Gustano</string>
+        <string name="me_gmail">gustano18@gmail.com</string>
+</resources>
